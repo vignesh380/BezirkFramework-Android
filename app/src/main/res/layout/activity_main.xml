@@ -13,5 +13,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello yocos!" />
+        android:text="Hello yocos!"
+        android:id="@+id/activity_main_hello"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>
